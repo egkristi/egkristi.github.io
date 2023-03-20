@@ -1,0 +1,4 @@
+baseURL = 'https://egkristi.github.io'
+languageCode = 'nb-no'
+title = 'egkristi'
+theme = 'ananke'
