@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Erling..</title>
-    <link>http://egkristi.github.io/</link>
-    <description>Recent content on Erling..</description>
+    <title>Posts on Erling..</title>
+    <link>http://egkristi.github.io/posts/</link>
+    <description>Recent content in Posts on Erling..</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Mar 2023 12:37:29 +0100</lastBuildDate><atom:link href="http://egkristi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Mar 2023 12:37:29 +0100</lastBuildDate><atom:link href="http://egkristi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post 1</title>
       <link>http://egkristi.github.io/posts/post-1/</link>
