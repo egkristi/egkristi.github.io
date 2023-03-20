@@ -1,4 +1,4 @@
-baseURL = 'https://egkristi.github.io'
-languageCode = 'nb-no'
-title = 'egkristi'
+baseURL = 'http://egkristi.github.io'
+languageCode = 'en-us'
+title = 'egkristi site'
 theme = 'ananke'
