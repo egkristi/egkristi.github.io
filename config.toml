@@ -2,3 +2,5 @@ baseURL = 'http://egkristi.github.io'
 languageCode = 'en-us'
 title = 'Erling..'
 theme = 'ananke'
+
+sectionPagesMenu = 'main'
